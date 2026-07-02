@@ -47,4 +47,5 @@ BOOKING_SERVICE_PATH=http://localhost:4002
 - **Reminder Service** (this repo)
 
 ### Author
--Chirag Bhalla
+
+- **Chirag Bhalla**
